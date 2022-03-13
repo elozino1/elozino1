@@ -1,4 +1,4 @@
-- 👋🏽 Hi, I'm Elozino &nbsp;
+<h1>👋🏽 Hi, I'm Elozino &nbsp;</h1>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -38,10 +38,6 @@
 
 
 ⭐️ From [Elozino Asah](https://github.com/elozino1)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 elozino1/elozino1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
