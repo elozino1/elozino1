@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 👨🏽 &nbsp; I’m a Mobile Application Engineer/FrontEnd (React) Developer.
-- 🛠 &nbsp; I’m currently working on Native Android, React Native & React Projects.
-- 💼 &nbsp; Currently open to Mobile and React Developer roles.
+- 👨🏽 &nbsp; I’m a Mobile Application Engineer.
+- 🛠 &nbsp; I’m currently working on Native Android & React Native Projects.
+- 💼 &nbsp; Currently open to Mobile Developer roles.
 - 🎓 &nbsp; Finished from the University of Benin, Benin City, Nigeria with a Degree in Industrial Mathematics.
 - 🌱 &nbsp; Interested in learning, building & collaborating on Mobile and Web projects.
 - 🎾 &nbsp; Experiencing nature, watching and playing football, playing video games and travelling as hobbies.
@@ -14,10 +14,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Kotlin | Java | JavaScript
-- 🌐 &nbsp; Android | React Native | React | HTML | CSS 
+- 💻 &nbsp; Kotlin | Java | JavaScript | TypeScript
+- 🌐 &nbsp; Android | React Native 
 - 🛢 &nbsp; ROOM | Firebase
-- 🔧 &nbsp; Android Studio | Intelli J | Visual Studio code | Git | GitHub
+- 🔧 &nbsp; Android Studio | Intelli J | Visual Studio code | Git | GitHub | Bitbucket
 
 <br>
   
