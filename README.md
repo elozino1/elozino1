@@ -5,7 +5,7 @@
 - 👨🏽 &nbsp; I’m a Mobile Application Engineer.
 - 🛠 &nbsp; I’m currently working on Native Android & React Native Projects.
 - 💼 &nbsp; Currently open to Mobile Developer roles.
-- 🎓 &nbsp; Finished from the University of Benin, Benin City, Nigeria with a Degree in Industrial Mathematics.
+- 🎓 &nbsp; B.Sc Industrial Mathematics from the University of Benin, Benin City, Nigeria.
 - 🌱 &nbsp; Interested in learning, building & collaborating on Mobile and Web projects.
 - 🎾 &nbsp; Experiencing nature, watching and playing football, playing video games and travelling as hobbies.
 - 🔮 &nbsp; The sun will rise, and we will try again. 
